@@ -1,0 +1,10 @@
+.DS_Store
+.Python
+pip-selfcheck.json
+*.mp3
+*.wav
+/bin/*
+/include/*
+/lib/*
+/results/*
+/library/*
