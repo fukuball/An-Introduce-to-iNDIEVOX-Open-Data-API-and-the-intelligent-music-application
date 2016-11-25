@@ -10,29 +10,29 @@ An Introduce to iNDIEVOX Open Data/API and the intelligent music application
 
 3. 安裝 FukuML
 
-```
-pip install FukuML
-```
+    ```
+    pip install FukuML
+    ```
 
 4. clone 這個 repo
 
-```
-git clone https://github.com/fukuball/An-Introduce-to-iNDIEVOX-Open-Data-API-and-the-intelligent-music-application
-```
+    ```
+    git clone https://github.com/fukuball/An-Introduce-to-iNDIEVOX-Open-Data-API-and-the-intelligent-music-application
+    ```
 
 5. 新增套件資料夾
 
-```
-cd An-Introduce-to-iNDIEVOX-Open-Data-API-and-the-intelligent-music-application
-mkdir library
-```
+    ```
+    cd An-Introduce-to-iNDIEVOX-Open-Data-API-and-the-intelligent-music-application
+    mkdir library
+    ```
 
 6. clone 必要套件
 
-```
-cd library
-git clone https://github.com/h-collector/Apriori
-git clone https://github.com/indievox-inc/iNDIEVOX-Dataset
-```
+    ```
+    cd library
+    git clone https://github.com/h-collector/Apriori
+    git clone https://github.com/indievox-inc/iNDIEVOX-Dataset
+    ```
 
 7. 參考投影片使用
