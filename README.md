@@ -1,7 +1,5 @@
 ## An Introduce to iNDIEVOX Open Data/API and the intelligent music application
 
-## 環境安裝
-
 ### Step 1. 安裝 PHP
 
 ### Step 2. 安裝 Python 及 PIP
